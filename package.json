@@ -1,0 +1,17 @@
+{
+  "name": "testewebjump",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Odirlei Alves",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "faker": "^5.5.3",
+    "generate-password": "^1.7.0",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
